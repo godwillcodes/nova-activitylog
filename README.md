@@ -6,7 +6,7 @@
 ![GitHub](https://img.shields.io/github/license/bolechen/nova-activitylog)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbolechen%2Fnova-activitylog.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbolechen%2Fnova-activitylog?ref=badge_shield)
 
-A tool to activity logger to monitor the users of your Laravel Nova.
+A tool to activity logger to monitor the users of your Laravel Nova : 
 
 - Behind the scenes [spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog) is used.
 
